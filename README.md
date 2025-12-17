@@ -1,24 +1,10 @@
-````markdown
 # Smart Recruitment
 
-Smart Recruitment is a full-stack web application that helps automate the hiring process — candidates can apply for jobs and recruiters can review applications.
 
-This project is divided into **frontend** (JavaScript) and **backend** (Python) code.
-
----
-
-## 🧠 Tech Stack
-
-| Part     | Technology          |
-|----------|---------------------|
-| Frontend | JavaScript (React)  |
-| Backend  | Python (API server) |
-
----
 
 ## 🚀 How to Run Locally
 
----
+
 
 ## 📥 Clone the Repository
 
@@ -28,6 +14,7 @@ cd Smart-Recruitment
 ````
 
 ---
+
 
 ## 🧩 Backend Setup
 
@@ -78,6 +65,12 @@ npm install
 
 ```bash
 npm start
+```
+
+3. Install lucide-react
+
+```bash
+npm install lucide-react
 ```
 
 4. The app will open in your browser at:
